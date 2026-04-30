@@ -1,0 +1,41 @@
+# Core
+jupyter
+jupyterlab
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+tqdm
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+einops
+
+# NLP & Transformers
+transformers
+datasets
+accelerate
+peft
+bitsandbytes
+sentence-transformers
+bertopic
+evaluate
+rouge-score
+sacrebleu
+seqeval
+
+# LLMs & RAG
+langchain
+llama-index
+chromadb
+faiss-cpu
+weaviate-client
+openai
+tiktoken
+
+# Web & Apps
+streamlit
+gradio
